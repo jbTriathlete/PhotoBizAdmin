@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Setup>
+  <setup_workfolder>\\jon-pc\horse show</setup_workfolder>
+  <setup_worksharefolder>c:\horse show shared</setup_worksharefolder>
+  <setup_orderfolder>\\jon-pc\orders\orders</setup_orderfolder>
+</Setup>

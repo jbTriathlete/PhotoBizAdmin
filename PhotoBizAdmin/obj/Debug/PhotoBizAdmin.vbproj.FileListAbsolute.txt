@@ -1,0 +1,37 @@
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\Interop.Photoshop.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\Interop.PhotoshopTypeLibrary.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.vbproj.ResolveComReference.cache
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.exe
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.pdb
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.xml
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\Interop.Photoshop.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\Interop.PhotoshopTypeLibrary.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.vbproj.GenerateResource.Cache
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.exe
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.xml
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.pdb
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.exe.config
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.print.resources
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.setup.resources
+C:\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.exe.config
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\Interop.Photoshop.dll
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\Interop.PhotoshopTypeLibrary.dll
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.vbproj.ResolveComReference.cache
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.exe
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.xml
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.pdb
+C:\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.exe
+C:\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.pdb
+C:\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\PhotoBizAdmin.xml
+C:\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\Interop.Photoshop.dll
+C:\PhotoBizAdmin\PhotoBizAdmin\bin\Debug\Interop.PhotoshopTypeLibrary.dll
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.Form1.resources
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.Form2.resources
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.Resources.resources
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.print.resources
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\WindowsApplication1.setup.resources
+C:\PhotoBizAdmin\PhotoBizAdmin\obj\Debug\PhotoBizAdmin.vbproj.GenerateResource.Cache

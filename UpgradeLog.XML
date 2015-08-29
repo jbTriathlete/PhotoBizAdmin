@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PhotoBizAdmin">
+</Property><Property Name="Solution File" Value="C:\PhotoBizAdmin\PhotoBizAdmin.sln">
+</Property><Property Name="User Options File" Value="C:\PhotoBizAdmin\PhotoBizAdmin.suo">
+</Property><Property Name="Date" Value="Thursday, November 29, 2012">
+</Property><Property Name="Time" Value="19:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PhotoBizAdmin.sln" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PhotoBizAdmin.suo" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin.suo">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizAdmin.vbproj" Description="Project file successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\PhotoBizAdmin.vbproj">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizAdmin.vbproj.user" Description="Project user file successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\PhotoBizAdmin.vbproj.user">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\Form1.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\Form1.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\Form1.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\Form2.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\Form2.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\Form2.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\Application.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizDataSet.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\PhotoBizDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\print.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\print.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\print.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\print.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\setup.Designer.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\setup.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\setup.vb" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\setup.vb">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\app.config" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\app.config">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\Application.myapp" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\Settings.settings" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizDataSet.xsc" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\PhotoBizDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizDataSet.xsd" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\PhotoBizDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizDataSet.xss" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\PhotoBizDataSet.xss">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\Form1.resx" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\Form2.resx" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\Form2.resx">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\My Project\Resources.resx" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\print.resx" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\print.resx">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\setup.resx" Description="File successfully backed up as C:\PhotoBizAdmin\Backup\PhotoBizAdmin\setup.resx">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizAdmin.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizAdmin.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PhotoBizAdmin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PhotoBizAdmin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PhotoBizAdmin" Source="PhotoBizAdmin\PhotoBizAdmin.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

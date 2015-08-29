@@ -1,0 +1,15 @@
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Interop.Photoshop.dll
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Interop.PhotoshopTypeLibrary.dll
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Interop.Photoshop.dll
+C:\Users\Jon\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Interop.PhotoshopTypeLibrary.dll
